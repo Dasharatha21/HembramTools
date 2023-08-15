@@ -1,0 +1,33 @@
+.entry-box{
+  max-width:720px;
+  margin:20px auto}
+  
+  .app{position:relative;margin-top:15px;margin-bottom:15px;color:inherit;display:grid;grid-template-rows:80px;grid-template-columns:80px calc(100% - 80px - 15px);gap:15px;width:100%}
+  
+  .app-icon{width:80px;height:80px;position:relative;border-radius:15px;aspect-ratio:1/1}
+  
+  .app-icon img{border-radius:15px;aspect-ratio:1/1}
+  
+  .app-name{width:100%;position:relative;align-self:center}
+  
+  .entry-box h1{font-weight:bold}
+  
+  .app-name h1{line-height:25px}
+  
+  .has-medium-font-size{font-size:18px !important}
+  
+  .truncate{display:block;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  
+  .has-cyan-bluish-gray-color{color:#646f78 !important}
+  
+  .has-small-font-size{font-size:13px !important}
+  
+  .app-box-name-heading>span{margin-top:3px}
+  
+  .margin-top-15{margin-top:15px}
+  
+  .wp-block-buttons>.wp-block-button.has-custom-width{max-width:none}
+  
+  .wp-block-buttons>.wp-block-button.wp-block-button__width-100{width:100%;flex-basis:100%}
+  
+  .wp-block-buttons>.wp-block-button{display:inline-block;margin:0}.wp-block-buttons>.wp-block-button.has-custom-width .wp-block-button__link{width:100%}.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;cursor:pointer;display:inline-block;font-size:1.125em;padding:3px 15px;text-align:center;text-decoration:none;word-break:break-word;box-sizing:border-box}.has-vivid-cyan-blue-background-color{background-color:#1a73e8 !important}.clickable{opacity:1;transition:250ms ease-in-out;position:relative;overflow:hidden;transform:translate3d(0,0,0)}.clickable:after{content:"";display:block;position:absolute;width:100%;height:100%;top:0;left:0;pointer-events:none;background-image:radial-gradient(circle,#fff 10%,transparent 10.01%);background-repeat:no-repeat;background-position:50%;transform:scale(10,10);opacity:0;transition:transform .5s,opacity 1s}.material-icons{line-height:1;font-size:24px;background-position:-194px -14px;width:20px;height:20px}.entry-block{box-shadow:0 4px 10px rgb(0 0 0 / 5%);border-radius:8px;padding:15px;background:#fff;margin-top:25px!important;margin-bottom:20px!important}.wp-block-table{margin:20px 0}.uppercase{text-transform:uppercase!important}.no-margin{margin:0!important}.wp-block-table .has-fixed-layout{table-layout:fixed;width:100%}.wp-block-table table{border-collapse:collapse;width:100%}.has-text-align-left{text-align:left}.has-cyan-bluish-gray-color{color:#646f78 !important}th{font-weight:400}th,td{padding:5px 0}p,dd,li,td,select{font-size:1.0625rem;line-height:1.53;color:#818992}table tbody tr th{padding:10px}iframe{max-width:100%;width:100%;margin:0;line-height:1;border:none}details{overflow:hidden}details summary{position:relative;cursor:pointer;display:block;list-style:none;z-index:2}details summary::-webkit-details-marker,details summary::marker{display:none;list-style:none}details>*:not(summary){animation:collapse 500ms ease-in-out;position:relative;z-index:1;transition:all 0.3s ease-in-out;overflow:hidden}.schema-faq-section{margin:10px 0;background:#eee;border-radius:5px;position:relative}.schema-faq-question{background:#eee;padding:10px;font-size:18px}.schema-faq-answer{margin:0;padding:10px}details.schema-faq-section summary{font-weight:400}details.schema-faq-section summary::after{position:absolute;content:"+";right:10px}details[open].schema-faq-section summary::after{position:absolute;content:"-";right:10px}.schema-faq-section p:last-of-type{margin-bottom:0}.detail-html{margin-top:40px;margin-bottom:40px}.detail-html img{margin:0 auto;display:block}.detail-title{margin:0px;text-align:center;font-variant-numeric:normal;font-variant-east-asian:normal;font-stretch:normal;line-height:1.4;font-family:Arial;font-size:18px !important}.p2{margin:0px;text-align:justify;font-variant-numeric:normal;font-variant-east-asian:normal;font-stretch:normal;line-height:1.4;font-family:Arial}.p3{margin:0px 0px 10px;text-align:justify;font-variant-numeric:normal;font-variant-east-asian:normal;font-stretch:normal;line-height:1.4;font-family:Helvetica;min-height:12px}.wp-block-group.has-very-light-gray-background-color{padding:1em 2em;background:#eee;margin-bottom:15px;margin-left:-15px;margin-right:-15px;padding-left:20px;padding-right:20px}.wp-title{margin:10px 0!important;padding:0 !important;font-weight:400 !important;overflow-wrap:break-word;line-height:normal !important}.wp-block-group__inner-container>ul{margin-left:2em}.wp-block-group__inner-container>ul>li{list-style-type:disc!important}dd,dl,dt,li,ol,ul{list-style:none}.has-normal-font-size{font-size:16px !important}.pdt-faq{border-bottom:1px solid #e0dad1}details.pdt-faq-section{padding:10px 0;transition:all .25s ease-out;border-top:1px solid #e0dad1}details.pdt-faq-section summary::after{position:absolute;content:"+";color:#2b5672;font-size:20px;right:10px;font-weight:500}details.pdt-faq-section p:last-of-type{margin-bottom:0}details[open].pdt-faq-section{border-radius:5px}details[open].pdt-faq-section summary::after{position:absolute;content:"-";color:#2b5672;font-size:20px;right:10px;font-weight:500}.pdt-faq-question{padding:10px 15px}.pdt-faq-answer{margin:0;padding:15px}.margin-bottom-15{margin-bottom:15px}.download-list{animation:fade-in 1s}.margin-top-15{margin-top:15px}.download-list a{display:block}.download-item{position:relative;width:100%;display:inline-flex;margin:5px 0}.download-item-icon{width:55px;height:55px;position:relative;border-radius:15px;aspect-ratio:1/1}.download-item-icon img{border-radius:15px;aspect-ratio:1/1}.download-item-name{padding-left:10px;width:100%;position:relative}.has-vivid-cyan-blue-color{color:#1a73e8 !important}.has-cyan-bluish-gray-color{color:#646f78 !important}.has-small-font-size{font-size:13px !important}.has-cyan-bluish-gray-color{color:#646f78 !important}.has-white-color{color:#ffffff !important}.has-vivid-green-cyan-background-color{background-color:#4caf50 !important}.app-tag{margin-right:5px;padding:0.5px 10px;border-radius:15px;font-size:smaller}.has-text-align-center{text-align:center}p.has-background{padding:1em 2em;margin:20px 0}p.has-light-green-cyan-background-color,p.has-vivid-green-cyan-background-color{background-color:#d5ece7!important;border:1px solid #d6e9c6;margin-left:-15px;margin-right:-15px;padding-left:20px;padding-right:20px;color:rgba(48,53,60,0.7)}.download-link:hover{color:#0056b3;text-decoration:underline}
